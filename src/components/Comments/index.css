@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.bg-main {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+}
+
+.bg-sub {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 250px;
+}
